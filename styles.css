@@ -12,4 +12,31 @@
 body {
     display: flex;
     flex-direction: column;
+    margin: 0;
+}
+
+a {
+    text-decoration: none;
+    color: #F9FAF8;
+}
+
+.header {
+    display: flex;
+    justify-content: space-between;
+    padding-left: 200px;
+    padding-right: 200px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    background: #1F2937;
+}
+
+.main-header {
+    font-size: 24px;
+    color: #F9FAF8;
+}
+
+.mini-headers {
+    display: flex;
+    gap: 20px;
+    align-items: center;
 }

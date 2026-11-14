@@ -50,7 +50,7 @@ a {
     display: flex;
     background: #1F2937;
     padding-top: 100px;
-    padding-bottom: 100px;
+    padding-bottom: 70px;
 }
 
 .Hero-Section {
@@ -96,6 +96,7 @@ a {
 .pic-of-bldg {
     width: 100%;
     border-radius: 25px;
+    opacity: 0.75;
 }
 
 /* SOME RANDOM INFORMATION */
@@ -128,4 +129,11 @@ a {
 
 .sri-img-txt .img-txt {
     width: 200px;
+    text-align: center;
+}
+
+.four-img {
+    width: 150px;
+    height: 150px;
+    border-radius: 25px;
 }

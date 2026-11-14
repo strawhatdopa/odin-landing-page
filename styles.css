@@ -20,6 +20,8 @@ a {
     color: #F9FAF8;
 }
 
+/* HEADER */
+
 .header {
     display: flex;
     justify-content: space-between;
@@ -33,10 +35,22 @@ a {
 .main-header {
     font-size: 24px;
     color: #F9FAF8;
+    font-weight: 1000;
 }
 
 .mini-headers {
     display: flex;
     gap: 20px;
     align-items: center;
+}
+
+/* SOME RANDOM INFORMATION */
+
+.upper-body {
+    display: flex;
+}
+
+.Hero-Section {
+    display: flex;
+    flex-direction: column;
 }

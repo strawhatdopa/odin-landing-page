@@ -58,6 +58,18 @@ a {
     flex-direction: column;
     padding-left: 200px;
     background: #1F2937;
+    flex-wrap: wrap;
+    flex: 1;
+}
+
+.awesome {
+    font-size: 48px;
+    color: #F9FAF8;
+}
+
+.aw-subtext {
+    font-size: 18px;
+    color: #E5E7EB;
 }
 
 .img-container1 {

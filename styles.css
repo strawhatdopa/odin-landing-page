@@ -60,27 +60,28 @@ a {
     background: #1F2937;
     flex-wrap: wrap;
     flex: 1;
+    gap: 10px;
 }
 
 .awesome {
-    font-size: 48px;
+    font-size: 68px;
     color: #F9FAF8;
     font-weight: 1000;
 }
 
 .aw-subtext {
-    font-size: 18px;
+    font-size: 24px;
     color: #E5E7EB;
 }
 
 .button-hero-section {
     background-color: #3882F6;
     border: none;
-    width: 100px;
-    height: 35px;
+    width: 120px;
+    height: 40px;
     color: #F9FAF8;
     border-radius: 10px;
-    font-size: 16px;
+    font-size: 19px;
     font-weight: 1000;
 }
 

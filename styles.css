@@ -200,6 +200,7 @@ a {
 .CTA-txt {
     padding: 50px;
     color: #F9FAF8;
+    flex: 1;
 }
 
 .CTA {
@@ -210,3 +211,23 @@ a {
 .under-CTA {
     color: #E5E7EB;
 }
+
+.CTA-button {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex: 1;
+}
+
+.actual-cta-button {
+    width: 150px;
+    height: 50px;
+    font-size: 20px;
+    border: 2px solid white;
+    border-radius: 15px;
+    color: #F9FAF8;
+    background: transparent;
+}
+
+/* FOOTER */
+

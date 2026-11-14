@@ -44,7 +44,7 @@ a {
     align-items: center;
 }
 
-/* SOME RANDOM INFORMATION */
+/* HERO SECTION */
 
 .upper-body {
     display: flex;
@@ -64,7 +64,7 @@ a {
 }
 
 .awesome {
-    font-size: 68px;
+    font-size: 72px;
     color: #F9FAF8;
     font-weight: 1000;
 }
@@ -91,4 +91,41 @@ a {
     justify-content: center;
     padding-right: 200px;
     background: #1F2937;
+}
+
+.pic-of-bldg {
+    width: 100%;
+    border-radius: 25px;
+}
+
+/* SOME RANDOM INFORMATION */
+
+.middle-upper {
+    display: flex;
+    flex-direction: column;
+    padding-bottom: 100px;
+}
+
+.sri {
+    text-align: center;
+    padding: 40px;
+    font-size: 42px;
+    font-weight: 1000;
+    color: #1F2937;
+}
+
+.sri-img-txt {
+    display: flex;
+    justify-content: center;
+    padding-left: 200px;
+    padding-right: 200px;
+    justify-content: space-evenly;
+}
+
+.subtext {
+    color: #363636;
+}
+
+.sri-img-txt .img-txt {
+    width: 200px;
 }
